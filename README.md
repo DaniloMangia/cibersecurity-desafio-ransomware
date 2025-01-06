@@ -1,6 +1,6 @@
 # Simulando um ataque de Ransomware
 ## Objetivo
-Esse projeto tem como objetivo Criptografar e Descriptografar arquivos, simulando como seria um ataque, onde um arquivo criptografado só seria libereado após o atendimento das exigências.
+Esse projeto tem como objetivo Criptografar e Descriptografar arquivos, simulando como seria um ataque, onde um arquivo criptografado só seria liberado após o atendimento das exigências.
 
 ## Tecnologias:
 
